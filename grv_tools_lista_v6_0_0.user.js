@@ -6,7 +6,7 @@
 // @match        https://intranet.consorciorioparkingcarioca.com/*
 // @grant        GM_setValue
 // @grant        GM_getValue
-// @updateURL    https://SEU_USUARIO.github.io/grv-tools-scripts/dist/grv_tools_lista_v6_0_0.user.js
-// @downloadURL  https://SEU_USUARIO.github.io/grv-tools-scripts/dist/grv_tools_lista_v6_0_0.user.js
+// @updateURL    https://vitorhaan.github.io/grv-tools-scripts/grv_tools_lista_v6_0_0.user.js
+// @downloadURL  https://vitorhaan.github.io/grv-tools-scripts/grv_tools_lista_v6_0_0.user.js
 // ==/UserScript==
 console.log('GRV Tools placeholder');
