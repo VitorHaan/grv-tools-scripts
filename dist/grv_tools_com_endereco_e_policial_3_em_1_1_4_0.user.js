@@ -6,10 +6,9 @@
 // @match        https://intranet.consorciorioparkingcarioca.com/*
 // @run-at       document-start
 // @grant        none
-// @updateURL https://vitorhaan.github.io/grv-tools-scripts/dist/grv_tools_com_endereco_e_policial_3_em_1_1_4_0.user.js
-@downloadURL https://vitorhaan.github.io/grv-tools-scripts/dist/grv_tools_com_endereco_e_policial_3_em_1_1_4_0.user.js
+// @updateURL    https://vitorhaan.github.io/grv-tools-scripts/dist/grv_tools_com_endereco_e_policial_3_em_1_1_4_0.user.js
+// @downloadURL  https://vitorhaan.github.io/grv-tools-scripts/dist/grv_tools_com_endereco_e_policial_3_em_1_1_4_0.user.js
 ==/UserScript==
-
 (function() {
   'use strict';
   // Lightweight loader wrapping original code in Base64 to discourage casual inspection.
